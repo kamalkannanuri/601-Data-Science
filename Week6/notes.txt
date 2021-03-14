@@ -1,0 +1,4 @@
+this still doesn't solve the issue. when you updated one persons shopping list, 
+it also updates the other person's shopping list.
+
+70
