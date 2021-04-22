@@ -1,0 +1,12 @@
+part1 is missing 
+
+imp_12 imputation part is not correct.
+you are imputing but not assigning back 
+you should have done the lag plot first. 
+
+same with 32
+
+87: cannot be linear interpolate. as data is not corralated.
+lagplot would show that.
+
+50
