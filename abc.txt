@@ -1,3 +1,7 @@
 umbc
+<<<<<<< HEAD
 my 
 university
+=======
+my university
+>>>>>>> 1dc3d8c... new file
